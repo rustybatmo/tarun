@@ -1,0 +1,3 @@
+How the widgets are rendered
+How the marketplace widgets are rendered, how the library is used in this 
+How it is used in the theme unification
